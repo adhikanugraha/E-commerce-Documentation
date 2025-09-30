@@ -14,7 +14,7 @@ Pengguna perlu melihat daftar produk secara jelas (nama, harga, deskripsi) agar 
 - UI halaman inventory
 ![inventory][assets/inventory.png]
 -Ui halaman detail produk
-![detail product][assets/detail_product.png]
+![detail product](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/inventory.png)
 
 
 ## Business Logic
@@ -22,4 +22,5 @@ Pengguna perlu melihat daftar produk secara jelas (nama, harga, deskripsi) agar 
   - Secara defult produk akan ditampilkan secara terurut berdasarkan abjad [A-Z]
   - Produk yang ditampilkan hanya produk yang tersedia
 - Flowchart :
-![inventory diagram][diagrams/inventory.png]
+  
+![inventory diagram](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/diagrams/inventory.png)
