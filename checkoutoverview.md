@@ -13,7 +13,7 @@ User membutuhkan ringkasan final pesanan sebelum melakukan pembayaran untuk mema
 
 ## UX/UI
 - UI checkout overview
-![checkout overview][asset/checkout_overview.png]
+![checkout overview](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/checkout_overview.png)
 
 
 ## Business Logic
@@ -22,6 +22,7 @@ Core rule :
 - Sistem menampilkan shiping information
 - Sistem menampilkan harga total yang sudah termasuk biaya pajak.
 Flowchart :
-![checkout overview diagram][diagrams/checkoutoverview.png]
+
+![checkout overview diagram](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/diagrams/checkoutoverview.png)
 
 
