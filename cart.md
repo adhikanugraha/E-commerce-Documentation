@@ -12,10 +12,11 @@ User membutuhkan wadah untuk meninjau produk yang sudah dipilih sebelum checkout
 
 ## UX/UI
 - UI halaman cart information 
-![ui halaman cart information][assets/cart_information.png]
+![ui halaman cart information](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/cart_information.png)
 
 ## Business Logic
 Core rule:
 - Sistem menampilkan informasi lengkap daftar produk yang sudah ditambahkan ke keranjang 
 FLowchart:
-![cart diagram][diagrams/cart.png]
+
+![cart diagram](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/diagrams/cart.png)

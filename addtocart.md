@@ -13,7 +13,7 @@ Pengguna memerlukan cara untuk menyimpan produk yang ingin dibeli sebelum checko
 
 ## UX/UI
 - UI add to cart
-![ui add to cart][asseets/addtocart.png]
+![ui add to cart](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/addtocart.png)
 
 ## Business Logic
 - Core Rule : 
@@ -21,4 +21,5 @@ Pengguna memerlukan cara untuk menyimpan produk yang ingin dibeli sebelum checko
   - Ketika telah menambahkan produk belanja maka ikon keranjang akan menampilkan angka sejumlah produk yang dimasukkan
   - Angka pada keranjang akan berkurang ketika user remove produk
 - Flowchart :
-![add to cart diagram][diagrams/addtocart.png]
+  
+![add to cart diagram](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/diagrams/addtocart.png)

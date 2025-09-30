@@ -10,9 +10,9 @@ Dibutuhkan mekanisme untuk memvalidasi kredensial dari orang yang mengakses webs
 
 ## UX/UI
 - UI Login 
-![login][assets/login.md]
+![login](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/login.png)
 - UI Login failed
-![alttext][assets/login_wrong.md]
+![alttext](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/login_wrong.png)
 
 ## Business Logic
 - Core Rule:
@@ -20,4 +20,5 @@ Dibutuhkan mekanisme untuk memvalidasi kredensial dari orang yang mengakses webs
   - User hanya boleh login jika akun sudah terdaftar
 
 - FLowchart :
-![login diagram][diagrams/login.md]
+  
+![login diagram](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/diagrams/login.png)
