@@ -14,6 +14,8 @@ User membutuhkan ringkasan final pesanan sebelum melakukan pembayaran untuk mema
 ## UX/UI
 - UI checkout overview
 ![checkout overview](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/checkout_overview.png)
+- UI checkout complete
+![checkout overview](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/complete.png)
 
 
 ## Business Logic
