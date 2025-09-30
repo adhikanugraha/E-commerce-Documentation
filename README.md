@@ -29,10 +29,10 @@ Fitur yang didokumentasikan meliputi:
 ## Navigation
 - [Login](login.md)  
 - [Inventory](inventory.md)  
-- [Add to Cart](add-to-cart.md)  
+- [Add to Cart](addtocart.md)  
 - [Cart](cart.md)  
-- [Checkout Information](checkout-information.md)  
-- [Checkout Overview](checkout-overview.md)  
+- [Checkout Information](checkoutinformation.md)  
+- [Checkout Overview](checkoutoverview.md)  
 
 ---
 
