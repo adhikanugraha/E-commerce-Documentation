@@ -12,14 +12,15 @@ Transaksi membutuhkan identitas dan informasi alamat untuk diproses. Jika data t
 
 ## UX/UI
 - UI chekout information
-![Ui chekout information][assets/checkout_information.png]
+![Ui chekout information](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/checkout_information.png)
 - UI chekout information missing field
-![Ui chekout information][assets/checkout_information_missing.png]
+![Ui chekout information](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/assets/checkout_information_missing.png)
 
 ## Business Logic
 Core rule :
 - Semua field harus terisi sebelum melanjutkan transaksi
 
 Flowchart :
-![checkout information diagram][diagrams/checkoutinformation.png]
+
+![checkout information diagram](https://github.com/adhikanugraha/E-commerce-Documentation/blob/main/diagrams/checkoutinformation.png)
 
